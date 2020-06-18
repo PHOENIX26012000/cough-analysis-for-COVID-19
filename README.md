@@ -5,7 +5,7 @@ ESC-50 cough samples [snaps](https://www.kaggle.com/kartikay99k/cough-detection)
 
 # Work-Flow
 # Audio processing part
-1. We begin with loading the signals for mel-spectrogram and MFCC signal processing, refer [notebook](Cough Analysis.ipynb) and [notebook](signal_processing.ipynb)
+1. We begin with loading the signals for mel-spectrogram and MFCC signal processing, refer [notebook](signal_processing.ipynb)
 2. Use [Librosa](https://librosa.org/librosa/) file for performing Mel-spectrogram and MFCC processing
 
 # Image part
