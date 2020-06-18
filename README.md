@@ -15,7 +15,7 @@ ESC-50 cough samples [snaps](https://www.kaggle.com/kartikay99k/cough-detection)
 2. pytorch image [transformers](https://pytorch.org/docs/stable/torchvision/transforms.html)
 3. pytorch pretrained model [MobileNet_V2](https://pytorch.org/docs/stable/torchvision/models.html)
 
-# Required settings for optimat usage
+# Required settings for optimal usage
 1. GPU/TPU
 
 # Data Visualizations
