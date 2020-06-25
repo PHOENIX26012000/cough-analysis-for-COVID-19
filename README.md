@@ -11,9 +11,10 @@ ESC-50 cough samples [snaps](https://www.kaggle.com/kartikay99k/cough-detection)
 # Image part
 
 **Libraries Used**
-1. [pytorch libraries](https://pytorch.org/)
-2. pytorch image [transformers](https://pytorch.org/docs/stable/torchvision/transforms.html)
-3. pytorch pretrained model [MobileNet_V2](https://pytorch.org/docs/stable/torchvision/models.html)
+1. [Tensorflow libraries](https://tensorflow.org/)
+2. Tensorflow image [classification](https://www.tensorflow.org/tutorials/images/classification)
+3. Tensorflow pretrained model [MobileNet_V2](https://www.tensorflow.org/api_docs/python/tf/keras/applications/MobileNetV2)
+4. Tensorflow Lite (Later stages)
 
 # Required settings for optimal usage
 1. GPU/TPU
