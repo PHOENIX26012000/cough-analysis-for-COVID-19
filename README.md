@@ -21,6 +21,6 @@ ESC-50 cough samples [snaps](https://www.kaggle.com/kartikay99k/cough-detection)
 
 # Data Visualizations
 
-![metrics](download.png)
+![metrics](metrics.png)
 
-![work in progress](https://image.shutterstock.com/z/stock-vector-caution-work-in-progress-image-1473524501.jpg)
+![loss](loss_plot.png)
