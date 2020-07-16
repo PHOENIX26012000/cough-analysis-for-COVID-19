@@ -13,14 +13,13 @@ ESC-50 cough samples [snaps](https://www.kaggle.com/kartikay99k/cough-detection)
 **Libraries Used**
 1. [Tensorflow libraries](https://tensorflow.org/)
 2. Tensorflow image [classification](https://www.tensorflow.org/tutorials/images/classification)
-3. Tensorflow pretrained model [MobileNet_V2](https://www.tensorflow.org/api_docs/python/tf/keras/applications/MobileNetV2)
-4. Tensorflow Lite (Later stages)
+3. Tensorflow Lite (Later stages)
 
 # Required settings for optimal usage
 1. GPU/TPU
 
 # Data Visualizations
 
-![metrics](metrics.png)
+![metrics](cough_sound_classification/metrics.png)
 
-![loss](loss_plot.png)
+![loss](cough_sound_classification/loss_plot.png)
